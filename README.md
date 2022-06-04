@@ -19,5 +19,3 @@
   <img align="center" alt="pmello-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="pmello-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
-  
-![Snake animation](https://github.com/pmello06/pmello06/blob/output/github-contribution-grid-snake.svg)
