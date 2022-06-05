@@ -3,7 +3,6 @@
 - 📚 Atualmente no 2º ano do curso técnico em Desenvolvimento de Sistemas pelo COTIL-UNICAMP (formatura em dezembro de 2023).
 - 🌱 Aprendendo a desenvolver aplicações desktop e web (C, C#, Java, HTML5, CSS3 e JavaScript).
 - 📩 Email: pedritohsmello@gmail.com
-<br>
 
 <div align="center">
   <a href="https://github.com/pmello06">
