@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pmello06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
- <div style="display: inline_block"><br>
+ <div align="center" style="display: inline_block"><br>
   <img align="center" alt="pmello-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="pmello-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="pmello-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
